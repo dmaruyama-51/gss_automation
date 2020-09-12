@@ -1,6 +1,6 @@
 <template>
   <div class='container'>
-    <h1>SpreadSheet の更新を自動反映！</h1>
+    <h1>SpreadSheet の更新を自動反映</h1>
     <p></p>
     <div>
       <table class='table table-striped'>
