@@ -1,4 +1,4 @@
-# stein
+# gss
 
 ## Build Setup
 
